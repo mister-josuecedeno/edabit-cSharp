@@ -12,6 +12,7 @@ New challenges will be completed daily.
 2021-07-17 - lessThan100.cs\
 2021-07-18 - CalcAge.cs\
 2021-07-19 - CircuitPower.cs\
+2021-07-21 - triArea.cs\
 
 ## Easy
 
