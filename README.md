@@ -16,6 +16,8 @@ New challenges will be completed daily.
 
 ## Easy
 
+2021-07-22 - MonthName.cs\
+
 ## Medium
 
 ## Hard
