@@ -17,6 +17,7 @@ New challenges will be completed daily.
 ## Easy
 
 2021-07-22 - MonthName.cs\
+2021-07-24 - FindMinMax.cs\
 
 ## Medium
 
