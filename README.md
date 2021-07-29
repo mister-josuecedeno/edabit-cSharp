@@ -20,6 +20,7 @@ Microsoft Tools: https://docs.microsoft.com/en-us/dotnet/core/tools/
 2021-07-22 - MonthName.cs\
 2021-07-24 - FindMinMax.cs\
 2021-07-27 - HammingDistance.cs\
+2021-07-29 - ArrayOfMultiples.cs\
 
 ## Medium
 
