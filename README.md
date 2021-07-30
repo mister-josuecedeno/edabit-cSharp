@@ -25,6 +25,7 @@ Microsoft Tools: https://docs.microsoft.com/en-us/dotnet/core/tools/
 ## Medium
 
 2021-07-25 - ReverseCase.cs\
+2021-07-30 - IsAnagram.cs\
 
 ## Hard
 
