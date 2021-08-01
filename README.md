@@ -14,6 +14,7 @@ Microsoft Tools: https://docs.microsoft.com/en-us/dotnet/core/tools/
 2021-07-18 - CalcAge.cs\
 2021-07-19 - CircuitPower.cs\
 2021-07-21 - triArea.cs\
+2021-08-01 - LessThanOrEqualToZero.cs\
 
 ## Easy
 
