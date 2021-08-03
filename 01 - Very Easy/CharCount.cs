@@ -1,14 +1,24 @@
-public static int CharCount(char myChar, string str)
+class Program
 {
-  int count = 0;
-
-  foreach (var chr in str)
+  public static int CharCount(char myChar, string str)
   {
-    if (chr == myChar)
+    int count = 0;
+
+    foreach (var chr in str)
     {
-      count++;
+      if (chr == myChar)
+      {
+        count++;
+      }
     }
+
+    return count;
   }
 
-  return count;
+  static void Main(string[] args)
+  {
+    Console.WriteLine(CharCount('a', "edabit"));
+    Console.WriteLine(CharCount('b', "big fat bubble"));
+    Console.WriteLine(CharCount('c', "Chamber of secrets"));
+  }
 }
