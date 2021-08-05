@@ -26,6 +26,7 @@ Microsoft Tools: https://docs.microsoft.com/en-us/dotnet/core/tools/
 2021-07-27 - HammingDistance.cs\
 2021-07-29 - ArrayOfMultiples.cs\
 2021-07-31 - FizzBuzz.cs\
+2021-08-05 - CheckPalindrome.cs\
 
 ## Medium
 
