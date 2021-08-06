@@ -32,6 +32,7 @@ Microsoft Tools: https://docs.microsoft.com/en-us/dotnet/core/tools/
 
 2021-07-25 - ReverseCase.cs\
 2021-07-30 - IsAnagram.cs\
+2021-08-06 - Bomb.cs\
 
 ## Hard
 
