@@ -18,6 +18,7 @@ Microsoft Tools: https://docs.microsoft.com/en-us/dotnet/core/tools/
 2021-08-02 - HellName.cs\
 2021-08-03 - CharCount.cs\
 2021-08-04 - CountVowels.cs\
+2021-08-07 - GetAbsSum.cs\
 
 ## Easy
 
