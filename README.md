@@ -20,6 +20,7 @@ Microsoft Tools: https://docs.microsoft.com/en-us/dotnet/core/tools/
 2021-08-04 - CountVowels.cs\
 2021-08-07 - GetAbsSum.cs\
 2021-08-11 - GiveMeSomething.cs\
+2021-08-12 - Reverse.cs\
 
 ## Easy
 
@@ -30,6 +31,7 @@ Microsoft Tools: https://docs.microsoft.com/en-us/dotnet/core/tools/
 2021-07-31 - FizzBuzz.cs\
 2021-08-05 - CheckPalindrome.cs\
 2021-08-08 - MultiplyByLength.cs\
+2021-08-12 - NameShuffle.cs\
 
 ## Medium
 
