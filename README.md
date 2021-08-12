@@ -42,6 +42,8 @@ Microsoft Tools: https://docs.microsoft.com/en-us/dotnet/core/tools/
 
 ## Hard
 
+2021-08-12 - ReverseAndNot.cs
+
 ## Very Hard
 
 ## Expert
