@@ -21,6 +21,7 @@ Microsoft Tools: https://docs.microsoft.com/en-us/dotnet/core/tools/
 2021-08-07 - GetAbsSum.cs\
 2021-08-11 - GiveMeSomething.cs\
 2021-08-12 - Reverse.cs\
+2021-08-13 - HowManySecons.cs\
 
 ## Easy
 
@@ -32,6 +33,7 @@ Microsoft Tools: https://docs.microsoft.com/en-us/dotnet/core/tools/
 2021-08-05 - CheckPalindrome.cs\
 2021-08-08 - MultiplyByLength.cs\
 2021-08-12 - NameShuffle.cs\
+2021-08-13 - SmallerNumber.cs\
 
 ## Medium
 
@@ -39,6 +41,7 @@ Microsoft Tools: https://docs.microsoft.com/en-us/dotnet/core/tools/
 2021-07-30 - IsAnagram.cs\
 2021-08-06 - Bomb.cs\
 2021-08-12 - ParseArray,cs\
+2021-08-13 - CheckEquality.cs\
 
 ## Hard
 
