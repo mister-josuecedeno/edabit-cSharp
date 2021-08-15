@@ -23,6 +23,7 @@ Microsoft Tools: https://docs.microsoft.com/en-us/dotnet/core/tools/
 2021-08-12 - Reverse.cs\
 2021-08-13 - HowManySecons.cs\
 2021-08-14 - IsSameNum.cs\
+2021-08-15 - nameString.cs\
 
 ## Easy
 
