@@ -36,6 +36,7 @@ Microsoft Tools: https://docs.microsoft.com/en-us/dotnet/core/tools/
 2021-08-08 - MultiplyByLength.cs\
 2021-08-12 - NameShuffle.cs\
 2021-08-13 - SmallerNumber.cs\
+2021-08-16 - Factorial.cs\
 
 ## Medium
 
@@ -44,6 +45,7 @@ Microsoft Tools: https://docs.microsoft.com/en-us/dotnet/core/tools/
 2021-08-06 - Bomb.cs\
 2021-08-12 - ParseArray,cs\
 2021-08-13 - CheckEquality.cs\
+2021-08-16 - Collatz.cs\
 
 ## Hard
 
