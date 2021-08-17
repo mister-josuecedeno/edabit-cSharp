@@ -24,6 +24,7 @@ Microsoft Tools: https://docs.microsoft.com/en-us/dotnet/core/tools/
 2021-08-13 - HowManySecons.cs\
 2021-08-14 - IsSameNum.cs\
 2021-08-15 - nameString.cs\
+2021-08-17 - And.cs\
 
 ## Easy
 
@@ -37,6 +38,7 @@ Microsoft Tools: https://docs.microsoft.com/en-us/dotnet/core/tools/
 2021-08-12 - NameShuffle.cs\
 2021-08-13 - SmallerNumber.cs\
 2021-08-16 - Factorial.cs\
+2021-08-17 - SortNumsAscending.cs\
 
 ## Medium
 
@@ -46,6 +48,7 @@ Microsoft Tools: https://docs.microsoft.com/en-us/dotnet/core/tools/
 2021-08-12 - ParseArray,cs\
 2021-08-13 - CheckEquality.cs\
 2021-08-16 - Collatz.cs\
+2021-08-17 - CounterpartCharCode.cs\
 
 ## Hard
 
