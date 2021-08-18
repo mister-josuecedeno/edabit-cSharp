@@ -25,6 +25,7 @@ Microsoft Tools: https://docs.microsoft.com/en-us/dotnet/core/tools/
 2021-08-14 - IsSameNum.cs\
 2021-08-15 - nameString.cs\
 2021-08-17 - And.cs\
+2021-08-18 - FindPerimeter.cs\
 
 ## Easy
 
@@ -39,6 +40,7 @@ Microsoft Tools: https://docs.microsoft.com/en-us/dotnet/core/tools/
 2021-08-13 - SmallerNumber.cs\
 2021-08-16 - Factorial.cs\
 2021-08-17 - SortNumsAscending.cs\
+2021-08-18 - IsIdentical.cs\
 
 ## Medium
 
