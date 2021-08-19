@@ -15,7 +15,7 @@ Microsoft Tools: https://docs.microsoft.com/en-us/dotnet/core/tools/
 2021-07-19 - CircuitPower.cs\
 2021-07-21 - triArea.cs\
 2021-08-01 - LessThanOrEqualToZero.cs\
-2021-08-02 - HellName.cs\
+2021-08-02 - HelloName.cs\
 2021-08-03 - CharCount.cs\
 2021-08-04 - CountVowels.cs\
 2021-08-07 - GetAbsSum.cs\
@@ -26,6 +26,7 @@ Microsoft Tools: https://docs.microsoft.com/en-us/dotnet/core/tools/
 2021-08-15 - nameString.cs\
 2021-08-17 - And.cs\
 2021-08-18 - FindPerimeter.cs\
+2021-08-19 - Animals.cs\
 
 ## Easy
 
