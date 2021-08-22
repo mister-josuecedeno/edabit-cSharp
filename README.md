@@ -27,6 +27,7 @@ Microsoft Tools: https://docs.microsoft.com/en-us/dotnet/core/tools/
 2021-08-17 - And.cs\
 2021-08-18 - FindPerimeter.cs\
 2021-08-19 - Animals.cs\
+2021-08-22 - FootballPoints.cs\
 
 ## Easy
 
