@@ -28,6 +28,7 @@ Microsoft Tools: https://docs.microsoft.com/en-us/dotnet/core/tools/
 2021-08-18 - FindPerimeter.cs\
 2021-08-19 - Animals.cs\
 2021-08-22 - FootballPoints.cs\
+2021-08-23 - SumPolygon.cs\
 
 ## Easy
 
@@ -43,6 +44,7 @@ Microsoft Tools: https://docs.microsoft.com/en-us/dotnet/core/tools/
 2021-08-16 - Factorial.cs\
 2021-08-17 - SortNumsAscending.cs\
 2021-08-18 - IsIdentical.cs\
+2021-08-23 - HackerSpeak.cs\
 
 ## Medium
 
