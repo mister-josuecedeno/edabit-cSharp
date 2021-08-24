@@ -46,6 +46,7 @@ Microsoft Tools: https://docs.microsoft.com/en-us/dotnet/core/tools/
 2021-08-17 - SortNumsAscending.cs\
 2021-08-18 - IsIdentical.cs\
 2021-08-23 - HackerSpeak.cs\
+2021-08-24 - NSidedShape.cs\
 
 ## Medium
 
