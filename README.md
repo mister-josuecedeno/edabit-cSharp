@@ -31,6 +31,7 @@ Microsoft Tools: https://docs.microsoft.com/en-us/dotnet/core/tools/
 2021-08-23 - SumPolygon.cs\
 2021-08-24 - GetFirstValue.cs\
 2021-08-25 - FlipIntBool.cs\
+2021-08-26 - Convert.cs\
 
 ## Easy
 
