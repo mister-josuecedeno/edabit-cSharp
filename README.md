@@ -49,6 +49,7 @@ Microsoft Tools: https://docs.microsoft.com/en-us/dotnet/core/tools/
 2021-08-18 - IsIdentical.cs\
 2021-08-23 - HackerSpeak.cs\
 2021-08-24 - NSidedShape.cs\
+2021-08-27 - SameCase.cs\
 
 ## Medium
 
