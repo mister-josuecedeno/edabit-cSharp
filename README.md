@@ -33,6 +33,7 @@ Microsoft Tools: https://docs.microsoft.com/en-us/dotnet/core/tools/
 2021-08-25 - FlipIntBool.cs\
 2021-08-26 - Convert.cs\
 2021-08-28 - inchesToFeet.cs\
+2021-08-29 - Points.cs\
 
 ## Easy
 
