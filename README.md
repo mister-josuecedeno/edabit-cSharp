@@ -37,6 +37,7 @@ Microsoft Tools: https://docs.microsoft.com/en-us/dotnet/core/tools/
 2021-08-30 - DivisibleByFive.cs\
 2021-08-31 - Squared.cs\
 2021-09-01 - DividesEvenly.cs\
+2021-09-02 - Frames.cs\
 
 ## Easy
 
