@@ -41,6 +41,7 @@ Microsoft Tools: https://docs.microsoft.com/en-us/dotnet/core/tools/
 2021-09-12 - ProfitableGamble.cs\
 2021-09-13 - Divisible.cs\ 
 2021-09-14 - Date.cs\
+2021-09-18 - 
 
 ## Easy
 
